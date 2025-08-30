@@ -28,3 +28,6 @@ Tech-Up! equips coders with **must-have skills for real-world development**.
 ## 📋 Event Details  
 - **Type of Event:** Workshop · Series (Individual Participation)  
 - **Level:** Beginner → Intermediate  
+
+## 📂 Materials 
+- [**TechUp! - Episode 1: "IDE: A Developer's Playground"**](https://www.canva.com/design/DAGxXl6yhHo/tI5hd5lgJLZPaA3NAs8MRg/edit?utm_content=DAGxXl6yhHo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
